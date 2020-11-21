@@ -25,9 +25,10 @@ table {
 }
 table tr td img {
     width: 100%;
+    display: block;
 }
 table tr td {
-    width: 100/11vh;
+    width: ;
 }
 .menu {
     width: 90%;
@@ -49,6 +50,6 @@ table tr td {
     color: white;
 }
 .albumok img{
-    width: 250px;
-    height: 250px;
+    width: 333.3px;
+    height: 333.3px;
 }
