@@ -1,0 +1,53 @@
+body {
+    margin: auto;
+}
+table {
+    width: 100%;
+}
+.lemezek {
+    width: 90%;
+    margin: auto;
+}
+th {
+    height: 0.75cm;
+    color: white;
+}
+td {
+    text-align: center;
+    width: 30%;
+    height: 0.75cm;
+}
+img {
+    width: 300px;
+}
+li {
+    list-style-type: none;
+    width: 300px;
+    line-height: 25px;
+    text-align: center;
+    margin: auto;
+}
+a {
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover {
+    color: lightskyblue;
+    text-decoration: underline;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.vissza {
+    height: 50px;
+    width: 100px;
+}
+.bg {
+    background-image: url("albumhatter2.jpg");
+    height: 105vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
