@@ -1,21 +1,11 @@
 body {
-    margin: auto;
+    margin: 0px;
 }
 table {
     width: 100%;
 }
-.lemezek {
-    width: 75%;
-    margin: auto;
-}
-th {
-    height: 0.75cm;
-    color: white;
-}
 td {
     text-align: center;
-    width: 30%;
-    height: 0.75cm;
 }
 img {
     width: 300px;
@@ -25,6 +15,7 @@ li {
     width: 300px;
     line-height: 25px;
     text-align: center;
+    border: 1px solid darkgray;
     margin: auto;
 }
 a {
@@ -40,13 +31,13 @@ ul {
     padding: 0;
 }
 .vissza {
-    height: 50px;
+    height: 60px;
     width: 100px;
 }
 .bg {
     background-image: url("albumhatter2.jpg");
-    height: 150vh;
-    width: 174.5vh;
+    height: 180vh;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

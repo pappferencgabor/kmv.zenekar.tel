@@ -6,3 +6,25 @@ img {
     width: 172.6px;
     height: 320px;
 }
+.vissza {
+    height: 50px;
+    width: 100px;
+    margin: 0;
+}
+.visszatablazat {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.kezdooldalra {
+    text-align: center;
+}
+a {
+    color: lightblue;
+    text-decoration: none;
+    font-size: 30px;
+}
+a:hover {
+    color: lightskyblue;
+    text-decoration: underline;
+}

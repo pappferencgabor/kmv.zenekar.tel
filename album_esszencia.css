@@ -5,7 +5,7 @@ table {
     width: 100%;
 }
 .lemezek {
-    width: 90%;
+    width: 75%;
     margin: auto;
 }
 th {
@@ -45,8 +45,8 @@ ul {
 }
 .bg {
     background-image: url("albumhatter2.jpg");
-    height: 105vh;
-    width: 100%;
+    height: 135vh;
+    width: 174.5vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

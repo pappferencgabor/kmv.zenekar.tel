@@ -10,12 +10,12 @@ body {
     background-image: url('kmv.jpg');
     background-size: cover;
 }
-.hero h1 {
+h1 {
     color: white;
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Goldman', cursive;
-    text-align: right;
+    text-align: center;
     padding: 15px;
 }
 .kep img {
