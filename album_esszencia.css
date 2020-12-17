@@ -1,12 +1,17 @@
 body {
-    margin: auto;
-}
-table {
+    margin: 0px;
+    background-color: wheat;
+    background-image: url("albumhatter4-2.jpg");
+    background-repeat: repeat;
     width: 100%;
 }
 .lemezek {
     width: 75%;
     margin: auto;
+}
+.albumkep {
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 th {
     height: 0.75cm;
@@ -42,8 +47,10 @@ ul {
 .vissza {
     height: 50px;
     width: 100px;
+    border: 1px solid white;
+    background-color: gray;
 }
-.bg {
+{
     background-image: url("albumhatter2.jpg");
     height: 135vh;
     width: 174.5vh;
