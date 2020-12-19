@@ -6,7 +6,9 @@ body {
     width: 100%;
 }
 table {
-    width: 100%;
+    width: 15%;
+    margin: auto;
+    padding: 0;
     padding-bottom: 25px;
 }
 .albumkep {
@@ -15,6 +17,9 @@ table {
 }
 td {
     text-align: center;
+    width: 30%;
+    height: 0.75cm;
+    border: 1.5px solid gray;
 }
 img {
     width: 300px;
@@ -24,7 +29,6 @@ li {
     width: 300px;
     line-height: 25px;
     text-align: center;
-    border: 1px solid darkgray;
     margin: auto;
 }
 a {
@@ -44,6 +48,9 @@ ul {
     width: 100px;
     border: 1px solid white;
     background-color: gray;
+}
+.vissza:hover {
+    background-color: lightgray;
 }
 {
     background-image: url("albumhatter2.jpg");

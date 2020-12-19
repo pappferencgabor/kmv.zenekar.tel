@@ -6,12 +6,12 @@ body {
     width: 100%;
 }
 .lemezek1 {
-    width: 75%;
+    width: 45%;
     margin: auto;
     padding-bottom: 25px;
 }
 .lemezek2 {
-    width: 75%;
+    width: 45%;
     margin: auto;
     padding-bottom: 25px;
 }
@@ -60,6 +60,9 @@ ul {
     width: 100px;
     border: 1px solid white;
     background-color: gray;
+}
+.vissza:hover {
+    background-color: lightgray;
 }
 {
     background-image: url("albumhatter2.jpg");

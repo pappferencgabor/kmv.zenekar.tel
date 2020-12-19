@@ -29,6 +29,9 @@ table tr td img {
     width: 100%;
     display: block;
 }
+table tr td img:hover {
+    border: 1.5px solid white;
+}
 .menu {
     width: 90%;
     text-align: center;
